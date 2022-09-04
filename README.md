@@ -1,3 +1,16 @@
+## DEMO 
+
+### Featured Events Page
+![Show all featured events](./githubPreviewImages/FeaturedEvents.png)
+
+### Filter Events you like 
+![Filter for events](./githubPreviewImages/FilterEvents.png)
+
+### Details about a specific event 
+![Filter for events](./githubPreviewImages/EventDetail.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
